@@ -11,14 +11,6 @@ Addressing this problem will enable the parents and students to get a full virtu
 Geotagging of all educational institutions integrated with virtual tour on Bharat Map so that any students/parents can visit any part of the country on map and take virtual tour along with facilities/courses available across the country is a much needed solution to help the students and their parents/guardians take the decision sitting at home. It will enable the parents and students to get a full virtual tour of the colleges and get the information regarding courses and facilities provided instantly. This will save the time and with the current COVID crisis, this solution will be a boon for many students as risk of getting affected while travelling will be cut short completely.
 ## Documentation
 
-[Panolens.js](https://pchen66.github.io/Panolens/docs/index.html)
-[PyMongo](https://pymongo.readthedocs.io/en/stable/)
-[folium](https://python-visualization.github.io/folium/)
-[pillow](https://pillow.readthedocs.io/en/stable/)
-[flask](https://flask.palletsprojects.com/en/2.2.x/)
-[GeoPy](https://geopy.readthedocs.io/en/stable/)
-
-
 
 ## Features
 
@@ -35,7 +27,6 @@ Geotagging of all educational institutions integrated with virtual tour on Bhara
 Clone the project
 
 ```bash
-  git clone https://github.com/rchandwani8600/VirTour
 ```
 
 Creating a virtual environment
@@ -67,33 +58,8 @@ Installing dependencies
 **Server:** Flask, MongoDB
 
 
-## Authors
-
-- [@Deepti-tech](https://www.github.com/Deepti-tech)
-- [@Bhavna214](https://www.github.com/Bhavna214)
-- [@rchandwani8600](https://www.github.com/rchandwani8600)
-- [@PNikita11](https://github.com/PNikita11)
 
 
 
-## Logo
 
-![Logo](https://raw.githubusercontent.com/rchandwani8600/VirTour/main/static/images/VIR%20TOUR.png)
-
-
-## Demo
-
-![Screenshots](https://raw.githubusercontent.com/rchandwani8600/VirTour/main/static/screenshots/home.jpeg)
-
-![Screenshots](https://raw.githubusercontent.com/rchandwani8600/VirTour/main/static/screenshots/home2.jpeg)
-
-![Screenshots](https://raw.githubusercontent.com/rchandwani8600/VirTour/main/static/screenshots/map.jpeg)
-
-![Screenshots](https://raw.githubusercontent.com/rchandwani8600/VirTour/main/static/screenshots/virtual_tour.jpeg)
-
-![Screenshots](https://raw.githubusercontent.com/rchandwani8600/VirTour/main/static/screenshots/virtual_tour2.jpeg)
-
-![Screenshots](https://raw.githubusercontent.com/rchandwani8600/VirTour/main/static/screenshots/virtual_tour3.jpeg)
-
-![Screenshots](https://raw.githubusercontent.com/rchandwani8600/VirTour/main/static/screenshots/college_dashboard.jpeg)
 
